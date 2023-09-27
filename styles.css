@@ -19,3 +19,7 @@ body {
     justify-content: center;
     gap: 50px;
 }
+
+#pearl-of-wisdom {
+    height: 50px
+}
