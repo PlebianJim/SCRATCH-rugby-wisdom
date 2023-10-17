@@ -9,7 +9,8 @@ let wisdomArray = [
   "“You don\'t need tries to win World Cups, just points,”",
   "“Kurtley Beale is prowling, Brad Barritt is bleeding”",
   "“Who is this team in white?”",
-  "“It's a free ball for Genge who snorts it up!”"
+  "“It's a free ball for Genge who snorts it up!”",
+  "“If noise could be a colour, this is it, it's blue.”"
 ];
 
 const button = document.querySelector(".button-click");
