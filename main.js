@@ -7,16 +7,17 @@ let wisdomArray = [
   "“You have to play well if you\'re dressed like that,”",
   "“It\'s not his physical presence that makes him such a threat, it\'s the magic in his boots,”",
   "“You don\'t need tries to win World Cups, just points,”",
-  "“Kurtley Beale is prowling, Brad Barritt is bleeding”",
+  "“Kurtley Beale is prowling, Brad Barrett is bleeding”",
   "“Who is this team in white?”",
   "“It's a free ball for Genge who snorts it up!”",
   "“If noise could be a colour, this is it, it's blue.”",
   "“A score that was oozing rugby intellect”",
-  "“He's got decent length on that”",
+  "“He's got decent length on that.”",
   "“He's got an amazing engine, hasn't he?”",
-  "“You honeypot a little bit”",
-  "“Big boys against big boys”",
-  "“”",
+  "“You honeypot a little bit.”",
+  "“Big boys against big boys.”",
+  "“He's painting a poor picture for referees when he moves like that”",
+  "“It's a case of take your pick there!”",
 ];
 
 const button = document.querySelector(".button-click");
