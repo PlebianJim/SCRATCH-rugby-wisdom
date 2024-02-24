@@ -10,7 +10,13 @@ let wisdomArray = [
   "“Kurtley Beale is prowling, Brad Barritt is bleeding”",
   "“Who is this team in white?”",
   "“It's a free ball for Genge who snorts it up!”",
-  "“If noise could be a colour, this is it, it's blue.”"
+  "“If noise could be a colour, this is it, it's blue.”",
+  "“A score that was oozing rugby intellect”",
+  "“He's got decent length on that”",
+  "“He's got an amazing engine, hasn't he?”",
+  "“You honeypot a little bit”",
+  "“Big boys against big boys”",
+  "“”",
 ];
 
 const button = document.querySelector(".button-click");
