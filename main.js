@@ -18,6 +18,7 @@ let wisdomArray = [
   "“Big boys against big boys.”",
   "“He's painting a poor picture for referees when he moves like that”",
   "“It's a case of take your pick there!”",
+  "“Grown men throwing things at him and falling off him”",
 ];
 
 const button = document.querySelector(".button-click");
